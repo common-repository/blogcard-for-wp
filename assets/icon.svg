@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #e2e8f0;
+      }
+
+      .cls-5 {
+        fill: #e5e7eb;
+      }
+
+      .cls-6 {
+        fill: #b0e7eb;
+      }
+
+      .cls-7 {
+        font-family: DIN2014-ExtraBold, 'DIN 2014';
+        font-size: 82.28px;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #6b7280;
+        font-weight: 700;
+      }
+
+      .cls-8 {
+        font-family: DIN2014-Bold, 'DIN 2014';
+        font-size: 32.7px;
+      }
+
+      .cls-3 {
+        fill: #d1d5db;
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="30"/>
+      <feFlood flood-color="#3c495b" flood-opacity=".1"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g>
+    <rect class="cls-6" x=".5" y=".5" width="1023" height="1023"/>
+    <path class="cls-2" d="m1023,1v1022H1V1h1022m1-1H0v1024h1024V0h0Z"/>
+  </g>
+  <rect class="cls-1" x="59.45" y="257.68" width="905.09" height="508.63"/>
+  <text class="cls-7" transform="translate(123.82 437.63)"><tspan x="0" y="0">Blogcard</tspan></text>
+  <g>
+    <rect class="cls-5" x="124.32" y="505.61" width="419.16" height="27.46"/>
+    <path class="cls-2" d="m542.98,506.11v26.46H124.82v-26.46h418.16m1-1H123.82v28.46h420.16v-28.46h0Z"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="124.32" y="547.17" width="419.16" height="27.46"/>
+    <path class="cls-2" d="m542.98,547.67v26.46H124.82v-26.46h418.16m1-1H123.82v28.46h420.16v-28.46h0Z"/>
+  </g>
+  <g>
+    <rect class="cls-4" x="595.47" y="354.6" width="314.8" height="314.8"/>
+    <path class="cls-2" d="m909.77,355.1v313.8h-313.8v-313.8h313.8m1-1h-315.8v315.8h315.8v-315.8h0Z"/>
+  </g>
+  <rect class="cls-3" x="123.82" y="622.2" width="35.84" height="35.84" rx="10.01" ry="10.01"/>
+  <text class="cls-8" transform="translate(180.61 651.98)"><tspan x="0" y="0">for WordPress</tspan></text>
+</svg>
